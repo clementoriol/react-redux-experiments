@@ -1,0 +1,19 @@
+{
+  "name": "04-understanding-redux-combineReducers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "^18.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "jest": "^18.1.0",
+    "react-test-renderer": "^15.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
