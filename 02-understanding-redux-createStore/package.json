@@ -1,5 +1,5 @@
 {
-  "name": "01-redux-only-counter",
+  "name": "02-understanding-redux-createStore",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {

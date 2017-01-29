@@ -1,5 +1,5 @@
 {
-  "name": "01-minimal-app-counter",
+  "name": "03-react-redux-counter",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
