@@ -12,7 +12,7 @@ const counterReducer = (state = 0, action) => {
 };
 
 
-const createStore = (reducer) => {
+const createStore = ( reducer) => {
   let state;
   const listeners = [];
 
